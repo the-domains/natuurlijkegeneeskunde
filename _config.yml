@@ -1,29 +1,18 @@
-name: natuurlijkegeneeskunde
-favicon: null
-layout_spectrum: 0.7643
-typography_spectrum: 0.89782
-title: 'Praktijk Fontaine '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#b7c8dd'
-    - '#000200'
-    - '#405733'
-    - '#fcfcfc'
-    - '#7e8c57'
+    - '#A8C0D0'
+    - '#585028'
+    - '#988860'
+    - '#AF9F50'
+    - '#000000'
   brandStrength: 0.5625
   lightness: 0.5540497722104192
-  saturation: 0.6401853624265641
   rhythmicContrast: 0.6428075316362083
+  saturation: 0.6401853624265641
+cta: {}
+layout_spectrum: 0.7643
+name: natuurlijkegeneeskunde
+opengraph: {}
 purpose: []
+typography_spectrum: 0.89782
