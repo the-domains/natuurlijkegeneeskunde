@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Praktijk Fontaine ]]></title>
         <description><![CDATA[Praktijk Fontaine ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/natuurlijkegeneeskunde/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 19:14:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 19:14:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/natuurlijkegeneeskunde/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Integratieve geneeskunde als vanzelfsprekendheid in een maatschappij waarbij wij allemaal ‘ergens’ voelen dat het anders kan; beter, gezonder misschien. </p>]]></description>
+            <link>https://thegrid.ai/natuurlijkegeneeskunde/rachel-heeft-een-passie-voor-gezondheid-in-al-haar-facetten/index.html</link>
+            <guid isPermaLink="false">6f149b09-f5b1-4a2a-8009-de9f00294caf</guid>
+            <pubDate>Tue, 22 Mar 2016 19:14:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Bij Praktijk Fontaine staat de complementaire en alternatieve geneeswijzen centraal. Ervaring leert dat jouw fysieke lijf vaak samengaat met een gezonde mentale gesteldheid. Heb je uitdagingen in jouw gezondheid dan zie je dat vaak terug op meerdere niveaus en gebieden van jouw leven. </p>]]></description>
-            <link>undefinedbij-praktijk-fontaine-staat-de-complementaire-en-alternatiev/index.html</link>
+            <link>https://thegrid.ai/natuurlijkegeneeskunde/bij-praktijk-fontaine-staat-de-complementaire-en-alternatiev/index.html</link>
             <guid isPermaLink="false">5d6cb926-7d8c-4166-90ff-6ea639d278c8</guid>
             <pubDate>Tue, 22 Mar 2016 19:13:49 GMT</pubDate>
         </item>
