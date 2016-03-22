@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Bij Praktijk Fontaine staat de complementaire en alternatieve geneeswijzen centraal. Ervaring leert dat jouw fysieke lijf vaak samengaat met een gezonde mentale gesteldheid. Heb je uitdagingen in jouw gezondheid dan zie je dat vaak terug op meerdere niveaus en gebieden van jouw leven.\_"
-datePublished: '2016-03-22T19:13:49.309Z'
-dateModified: '2016-03-22T19:13:48.175Z'
+datePublished: '2016-03-22T20:08:51.894Z'
+dateModified: '2016-03-22T19:18:21.552Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-22-bij-praktijk-fontaine-staat-de-complementaire-en-alternatiev.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-bij-praktijk-fontaine-staat-de-complementaire-en-alternatiev.md
-published: true
 url: bij-praktijk-fontaine-staat-de-complementaire-en-alternatiev/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df75d337-637b-44d0-af62-c3157fcaff63.jpg)
+
 Bij Praktijk Fontaine staat de complementaire en alternatieve geneeswijzen centraal. Ervaring leert dat jouw fysieke lijf vaak samengaat met een gezonde mentale gesteldheid. Heb je uitdagingen in jouw gezondheid dan zie je dat vaak terug op meerdere niveaus en gebieden van jouw leven. 
 
 Gezondheidsklachten zijn vaak multifactorieel en zouden ook op meerdere niveaus behandeld moeten worden. 
