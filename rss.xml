@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Praktijk Fontaine ]]></title>
+        <description><![CDATA[Praktijk Fontaine ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 19:14:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bij Praktijk Fontaine staat de complementaire en alternatieve geneeswijzen centraal. Ervaring leert dat jouw fysieke lijf vaak samengaat met een gezonde mentale gesteldheid. Heb je uitdagingen in jouw gezondheid dan zie je dat vaak terug op meerdere niveaus en gebieden van jouw leven. </p>]]></description>
+            <link>undefinedbij-praktijk-fontaine-staat-de-complementaire-en-alternatiev/index.html</link>
+            <guid isPermaLink="false">5d6cb926-7d8c-4166-90ff-6ea639d278c8</guid>
+            <pubDate>Tue, 22 Mar 2016 19:13:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
