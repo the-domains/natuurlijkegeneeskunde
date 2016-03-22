@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "rachel@natuurlijkegeneeskunde.nl\_"
-datePublished: '2016-03-22T20:08:06.388Z'
-dateModified: '2016-03-22T20:07:09.015Z'
+description: "Kort vragenformulier - na ontvangst nemen wij met u contact op voor het inplannen van een intake\_"
+datePublished: '2016-03-22T20:10:19.741Z'
+dateModified: '2016-03-22T20:10:03.944Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-22-rachelnatuurlijkegeneeskundenl.md
