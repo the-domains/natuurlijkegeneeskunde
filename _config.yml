@@ -1,4 +1,9 @@
+name: natuurlijkegeneeskunde
+layout_spectrum: 0.7643
+typography_spectrum: 0.89782
+cta: {}
 analytics: {}
+opengraph: {}
 color:
   brandColors:
     - '#A8C0D0'
@@ -8,11 +13,6 @@ color:
     - '#000000'
   brandStrength: 0.5625
   lightness: 0.5540497722104192
-  rhythmicContrast: 0.6428075316362083
   saturation: 0.6401853624265641
-cta: {}
-layout_spectrum: 0.7643
-name: natuurlijkegeneeskunde
-opengraph: {}
+  rhythmicContrast: 0.6428075316362083
 purpose: []
-typography_spectrum: 0.89782
